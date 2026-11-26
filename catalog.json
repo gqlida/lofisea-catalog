@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-26T15:52:00+08:00",
+  "tracks": [
+    {
+      "id": "purrple-cat-up-all-night-a-short-walk-with-you",
+      "title": "A Short Walk With You",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/01-a-short-walk-with-you-7bf921df0add525f.mp3",
+      "durationSec": 91.246,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “A Short Walk With You” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-lets-go-shopping",
+      "title": "Let's Go Shopping",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/02-lets-go-shopping-85e45d6f1ae57006.mp3",
+      "durationSec": 116.219,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “Let's Go Shopping” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-i-thought-wed-be-friends-forever",
+      "title": "I Thought We'd Be Friends Forever",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/03-i-thought-wed-be-friends-forever-2b00fde9c3a58fd0.mp3",
+      "durationSec": 139.128,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “I Thought We'd Be Friends Forever” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-it-was-just-a-dream",
+      "title": "It Was Just A Dream",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/04-it-was-just-a-dream-25925f4c85a3c753.mp3",
+      "durationSec": 148.062,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “It Was Just A Dream” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-my-cookie-fell-apart",
+      "title": "My Cookie Fell Apart",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/05-my-cookie-fell-apart-8c3f6d4ebb03976a.mp3",
+      "durationSec": 122.358,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “My Cookie Fell Apart” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-cold-and-rainy",
+      "title": "Cold & Rainy",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/06-cold-and-rainy-8374cdb544d12148.mp3",
+      "durationSec": 163.37,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “Cold & Rainy” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-up-all-night-up-all-night",
+      "title": "Up All Night",
+      "artist": "Purrple Cat",
+      "album": "Up All Night",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.0.0/07-up-all-night-43ddbad4c304e140.mp3",
+      "durationSec": 68.441,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/up-all-night",
+      "attributionText": "Music: “Up All Night” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    }
+  ]
+}
