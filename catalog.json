@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-26T15:52:00+08:00",
+  "version": 2,
+  "updatedAt": "2026-11-28T15:38:16+08:00",
   "tracks": [
     {
       "id": "purrple-cat-up-all-night-a-short-walk-with-you",
@@ -17,6 +17,48 @@
       "attributionText": "Music: “A Short Walk With You” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
     },
     {
+      "id": "purrple-cat-pelagic-journey-sunlit-shore",
+      "title": "Sunlit Shore",
+      "artist": "Purrple Cat & Ai Means Love.",
+      "album": "Pelagic Journey",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/pelagic-sunlit-shore-38f71052ecf6d833.mp3",
+      "durationSec": 132.963,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/pelagic-journey",
+      "attributionText": "Music: “Sunlit Shore” by Purrple Cat & Ai Means Love. (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/pelagic-journey"
+    },
+    {
+      "id": "holizna-lofi-and-chill-something-in-the-air",
+      "title": "Something In the Air",
+      "artist": "HoliznaCC0",
+      "album": "Lo-fi And Chill",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/holizna-something-in-the-air-934f53a409b4178b.mp3",
+      "durationSec": 131.976,
+      "license": {
+        "spdx": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/something-in-the-air",
+      "attributionText": "Music: “Something In the Air” by HoliznaCC0, dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/something-in-the-air"
+    },
+    {
+      "id": "scott-buckley-in-this-moment",
+      "title": "In This Moment",
+      "artist": "Scott Buckley",
+      "album": "Creative Commons Music Library",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/buckley-in-this-moment-83cbc46b22660533.mp3",
+      "durationSec": 199.549,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://www.scottbuckley.com.au/library/in-this-moment/",
+      "attributionText": "Music: “In This Moment” by Scott Buckley (https://www.scottbuckley.com.au), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://www.scottbuckley.com.au/library/in-this-moment/"
+    },
+    {
       "id": "purrple-cat-up-all-night-lets-go-shopping",
       "title": "Let's Go Shopping",
       "artist": "Purrple Cat",
@@ -29,6 +71,34 @@
       },
       "sourceUrl": "https://purrplecat.itch.io/up-all-night",
       "attributionText": "Music: “Let's Go Shopping” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-pelagic-journey-beach-bonfire",
+      "title": "Beach Bonfire",
+      "artist": "Purrple Cat & Ai Means Love.",
+      "album": "Pelagic Journey",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/pelagic-beach-bonfire-dea471746dace84b.mp3",
+      "durationSec": 182.753,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/pelagic-journey",
+      "attributionText": "Music: “Beach Bonfire” by Purrple Cat & Ai Means Love. (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/pelagic-journey"
+    },
+    {
+      "id": "holizna-lofi-and-chill-morning-coffee",
+      "title": "Morning Coffee",
+      "artist": "HoliznaCC0",
+      "album": "Lo-fi And Chill",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/holizna-morning-coffee-91de2d8f409730a7.mp3",
+      "durationSec": 191.976,
+      "license": {
+        "spdx": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/morning-coffee",
+      "attributionText": "Music: “Morning Coffee” by HoliznaCC0, dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/morning-coffee"
     },
     {
       "id": "purrple-cat-up-all-night-i-thought-wed-be-friends-forever",
@@ -45,6 +115,48 @@
       "attributionText": "Music: “I Thought We'd Be Friends Forever” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
     },
     {
+      "id": "purrple-cat-pelagic-journey-pelagic-journey",
+      "title": "Pelagic Journey",
+      "artist": "Purrple Cat & Ai Means Love.",
+      "album": "Pelagic Journey",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/pelagic-pelagic-journey-146a6d0cea8ff4bf.mp3",
+      "durationSec": 160.496,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/pelagic-journey",
+      "attributionText": "Music: “Pelagic Journey” by Purrple Cat & Ai Means Love. (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/pelagic-journey"
+    },
+    {
+      "id": "holizna-lofi-and-chill-a-little-shade",
+      "title": "A Little Shade",
+      "artist": "HoliznaCC0",
+      "album": "Lo-fi And Chill",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/holizna-a-little-shade-89958d422cac586d.mp3",
+      "durationSec": 178.56,
+      "license": {
+        "spdx": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/a-little-shade",
+      "attributionText": "Music: “A Little Shade” by HoliznaCC0, dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/a-little-shade"
+    },
+    {
+      "id": "scott-buckley-unraveling",
+      "title": "Unraveling",
+      "artist": "Scott Buckley",
+      "album": "Creative Commons Music Library",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/buckley-unraveling-82ed105724e6ee31.mp3",
+      "durationSec": 444.056,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://www.scottbuckley.com.au/library/unraveling/",
+      "attributionText": "Music: “Unraveling” by Scott Buckley (https://www.scottbuckley.com.au), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://www.scottbuckley.com.au/library/unraveling/"
+    },
+    {
       "id": "purrple-cat-up-all-night-it-was-just-a-dream",
       "title": "It Was Just A Dream",
       "artist": "Purrple Cat",
@@ -57,6 +169,34 @@
       },
       "sourceUrl": "https://purrplecat.itch.io/up-all-night",
       "attributionText": "Music: “It Was Just A Dream” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "purrple-cat-pelagic-journey-bubbles",
+      "title": "Bubbles",
+      "artist": "Purrple Cat & Ai Means Love.",
+      "album": "Pelagic Journey",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/pelagic-bubbles-d8ee668f88ddcd84.mp3",
+      "durationSec": 171.651,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/pelagic-journey",
+      "attributionText": "Music: “Bubbles” by Purrple Cat & Ai Means Love. (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/pelagic-journey"
+    },
+    {
+      "id": "holizna-lofi-and-chill-autumn",
+      "title": "Autumn",
+      "artist": "HoliznaCC0",
+      "album": "Lo-fi And Chill",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/holizna-autumn-c12190c1c3587e61.mp3",
+      "durationSec": 169.824,
+      "license": {
+        "spdx": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/autumn",
+      "attributionText": "Music: “Autumn” by HoliznaCC0, dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/autumn"
     },
     {
       "id": "purrple-cat-up-all-night-my-cookie-fell-apart",
@@ -73,6 +213,34 @@
       "attributionText": "Music: “My Cookie Fell Apart” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
     },
     {
+      "id": "purrple-cat-pelagic-journey-swimming-with-whales",
+      "title": "Swimming With Whales",
+      "artist": "Purrple Cat & Ai Means Love.",
+      "album": "Pelagic Journey",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/pelagic-swimming-with-whales-21fff3449ef4a8d4.mp3",
+      "durationSec": 200.464,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://purrplecat.itch.io/pelagic-journey",
+      "attributionText": "Music: “Swimming With Whales” by Purrple Cat & Ai Means Love. (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/pelagic-journey"
+    },
+    {
+      "id": "holizna-lofi-and-chill-seasons-change",
+      "title": "Seasons Change",
+      "artist": "HoliznaCC0",
+      "album": "Lo-fi And Chill",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/holizna-seasons-change-09b74a5896fc1e7e.mp3",
+      "durationSec": 135.504,
+      "license": {
+        "spdx": "CC0-1.0",
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "sourceUrl": "https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/seasons-change",
+      "attributionText": "Music: “Seasons Change” by HoliznaCC0, dedicated to the public domain under CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/). Source: https://freemusicarchive.org/music/holiznacc0/lo-fi-and-chill/seasons-change"
+    },
+    {
       "id": "purrple-cat-up-all-night-cold-and-rainy",
       "title": "Cold & Rainy",
       "artist": "Purrple Cat",
@@ -85,6 +253,20 @@
       },
       "sourceUrl": "https://purrplecat.itch.io/up-all-night",
       "attributionText": "Music: “Cold & Rainy” by Purrple Cat (https://purrplecat.com), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://purrplecat.itch.io/up-all-night"
+    },
+    {
+      "id": "scott-buckley-memories-of-stone",
+      "title": "Memories Of Stone",
+      "artist": "Scott Buckley",
+      "album": "Creative Commons Music Library",
+      "audioUrl": "https://github.com/gqlida/lofisea-catalog/releases/download/v1.1.0/buckley-memories-of-stone-1ad908e4c0e0c2a3.mp3",
+      "durationSec": 330.371,
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "sourceUrl": "https://www.scottbuckley.com.au/library/memories-of-stone/",
+      "attributionText": "Music: “Memories Of Stone” by Scott Buckley (https://www.scottbuckley.com.au), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Source: https://www.scottbuckley.com.au/library/memories-of-stone/"
     },
     {
       "id": "purrple-cat-up-all-night-up-all-night",
